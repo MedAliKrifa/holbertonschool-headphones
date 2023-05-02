@@ -31,7 +31,7 @@
 
 ## Clone
 
-`git clone https://github.com/Edin93/holberton-headphones.git`
+`git clone [https://github.com/MedAliKrifa/holbertonschool-headphones.git]`
 
 ## Requirements
 
